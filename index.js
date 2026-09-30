@@ -17,4 +17,4 @@ async function testcreate(firstname, lastname, email, age, passwordhash){
     }
 }
 
-testcreate('david', 'michael', 'test@gmail.com', 12, '12345');
+testcreate('isaiah', 'Pizza', 'test@gmail.com', 112, '12345');
